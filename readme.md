@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Hiren Sumra
 
-### Founder & CEO @ Liethueis Foundation · Diploma IT Student · Security & AI Systems Builder
+### Founder & CEO @ Liethueis Foundation · Diploma IT Student · Cyber Security & AI Systems Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Reverse+Engineering+%26+Cryptography;Building+Privacy-First%2C+Offline-First+Software;Training+an+AGI+from+Scratch+in+PyTorch;Founder%2C+Liethueis+Foundation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Cyber+Security+%26+Cryptography;Building+Privacy-First%2C+Offline-First+Software;Training+an+AGI+from+Scratch+in+PyTorch;Founder%2C+Liethueis+Foundation" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Skyh-23&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Skyh-23?label=Followers&style=flat&color=blueviolet" alt="Followers"/>
@@ -16,8 +16,8 @@
 ## 🔥 About Me
 
 - 🎓 4th‑semester Diploma in IT at **Gyanmanjari Innovative University**, Sidsar, Bhavnagar, Gujarat
-- 🚀 Founder & CEO of **Liethueis Foundation** — a platform connecting developers, students & learners
-- 🔐 Deep in cryptography, reverse engineering, and mobile/desktop security tooling
+- 🚀 Founder & CEO of **Liethueis Foundation**, building **Lifower** — a platform connecting developers, founders, students & investors
+- 🔐 Deep in cryptography, cyber security, and mobile/desktop security tooling
 - 🤖 Training an AGI architecture from scratch in PyTorch, and fine‑tuning local LLMs on consumer hardware
 - 🕵️ Privacy-first, offline-first software is basically the whole design philosophy
 - ⚡ Vibe coder — flow, creativity, and always three projects running in parallel
@@ -39,6 +39,7 @@
 
 | Project | Description |
 |---|---|
+| **Lifower** | Liethueis Foundation's flagship platform for developers, founders, students & investors — real-time & AI-generated tech news, AI model pricing, and curated offers |
 | **TeleVault** | Encrypted cloud storage using Telegram as the backend, zero‑knowledge local keys, chunked encryption + HTTP range streaming |
 | **Annonexa** | End‑to‑end encrypted messenger — Ed25519 auth, Sky256‑X + AES‑256‑GCM, real‑time WebSocket chat |
 | **Personal Secure Runtime (PSR)** | Five‑layer mobile security architecture — hardware root of trust → key management → crypto engine → isolation/policy → secure app runtime |
@@ -48,7 +49,7 @@
 
 ## 📚 Currently Exploring
 
-- IL2Cpp reverse engineering & Frida-based dynamic analysis
+- IL2Cpp analysis & Frida-based dynamic instrumentation
 - Android app hardening and hook-based protection mechanisms
 - Hardware-backed key management — Android Keystore & StrongBox
 - Resource-constrained AI on consumer-grade (4–6GB VRAM) hardware
@@ -78,10 +79,13 @@
 **Backend & Web**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Security & Crypto**
 
